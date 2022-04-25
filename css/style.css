@@ -29,6 +29,8 @@ a {
 
 .resumebutton {
     color: white;
+    background-color: black;
+    border-color: white;
     border-radius: 5px;
     padding: 5px;
     transition: 0.3s;
